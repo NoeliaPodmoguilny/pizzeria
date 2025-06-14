@@ -1,4 +1,4 @@
-# 🍕 Pizzería - Sistema de Gestión de Pedidos
+# 🍕 Pizzería - Sistema de Gestión de Pedidos (en desarrollo)
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java 21** utilizando **Spring Boot**, **JavaFX** y **MySQL**. Su objetivo principal es gestionar de forma sencilla y eficiente los pedidos de una pizzería.
 
@@ -36,6 +36,11 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java 21** utili
 
 * Se recomienda tener configurado JavaFX en el entorno de desarrollo.
 * Asegúrate de tener MySQL corriendo antes de ejecutar la aplicación.
+
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para sugerir mejoras o reportar problemas.
 
 ## 📄 Licencia
 
